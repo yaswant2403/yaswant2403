@@ -7,5 +7,6 @@
 - ❤️ My passion lies in integrating computer science into the field of astrophysics.
 - 🤩 I’m currently interested in utilizing machine learning techniques to classify and detect sources in the next generation of massive astronomical surveys. 
 - 📫 How to reach me: ejjagiri.yaswant24@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love travelling! I've been to Europe and 20/50 US States.
+- 😄 Pronouns: he/him
+
