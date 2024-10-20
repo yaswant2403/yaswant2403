@@ -3,7 +3,7 @@
 <!--
 **yaswant2403/yaswant2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently pursuing a BS in Computer Science + Astronomy with a Physics minor at University of Illinois - Urbana Champaign
+- 🔭 I’m currently pursuing a BS in Computer Science + Astronomy with both Physics and Math minors at University of Illinois - Urbana Champaign
 - ❤️ My passion lies in integrating computer science into the field of astrophysics.
 - 🤩 I’m currently interested in utilizing machine learning techniques to classify and detect sources in the next generation of massive astronomical surveys. 
 - 📫 How to reach me: ejjagiri.yaswant24@gmail.com
